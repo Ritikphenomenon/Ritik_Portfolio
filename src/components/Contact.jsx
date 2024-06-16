@@ -16,28 +16,24 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.instagram.com/ritikphenomenon/" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.facebook.com/profile.php?id=100055337319325" target="_blank" className="items">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/ritik-raj-pandey-b67a17221/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://x.com/RitikRajPande12" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
           </a>
-          <a href="https://www.github.com" target="_blank" className="items">
+          <a href="https://github.com/Ritikphenomenon" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
-          <a
-            href="mailto:webdevmastery@gmail.com"
-            target="_blank"
-            className="items"
-          >
-            <SiGmail className="icons" />
-          </a>
+          <a href="mailto:ritikphenomenon@gmail.com" target="_blank" className="items">
+    <SiGmail className="icons" />
+  </a>
         </div>
       </div>
     </>

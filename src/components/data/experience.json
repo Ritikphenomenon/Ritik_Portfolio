@@ -1,41 +1,43 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
-    "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
-    "location": "CA,United State",
+    "role": "Full-stack Developer",
+    "organisation": "Amplif",
+    "startDate": "Feb, 2024",
+    "endDate": "Mar, 2024",
+    "location": "Chhatrapati Sambhajinagar, Maharashtra, India · Remote",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Developed end-to-end web solutions using React.js and Node.js.",
+      "Managed databases, integrated APIs, and collaborated with teams for project planning.",
+      "Translated Figma designs into code, fixed bugs, and ensured website responsiveness."
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "company/amplif.jpeg"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Teaching Assistant",
+    "organisation": "Coding Ninjas",
+    "startDate": "Mar, 2023",
+    "endDate": "Sep, 2023",
+    "location": "Noida, Uttar Pradesh, India · Remote",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Provided invaluable support to students as a Teaching Assistant Intern, specializing in Data Structures and Algorithms (DSA).",
+      "Guided students in debugging and resolving their coding challenges, fostering a deeper understanding of DSA concepts.",
+      "Contributed to the learning environment by assisting in problem-solving sessions and facilitating discussions on complex topics."
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "company/coding_ninjas.jpeg"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "Team Leader and Frontend Developer",
+    "organisation": "Smart India Hackathon",
+    "startDate": "Mar, 2022",
+    "endDate": "Aug, 2022",
+    "location": "Vadodara, Gujarat, India · On-site",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "Led team in discussions and facilitated idea implementation.",
+      "Contributed as a frontend developer for user-friendly web interfaces."
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/smart_india_hackathon.jpeg"
   }
 ]
