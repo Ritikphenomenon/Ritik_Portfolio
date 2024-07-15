@@ -34,5 +34,17 @@
   {
     "title": "CPP",
     "imageSrc": "skills/cpp.png"
+  },
+  {
+    "title": "Operating System",
+    "imageSrc": "skills/os.png"
+  },
+  {
+    "title": "Database Managment System",
+    "imageSrc": "skills/dbms.jpeg"
+  },
+  {
+    "title": "Computer Networks",
+    "imageSrc": "skills/cn.png"
   }
 ]
